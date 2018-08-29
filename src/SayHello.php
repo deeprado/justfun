@@ -1,6 +1,6 @@
 <?php
 
-namespace justfun; 
+namespace justfun\hello; 
 
 class SayHello {
 	

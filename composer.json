@@ -1,5 +1,5 @@
 {
-    "name": "justfun",
+    "name": "justfun/hello",
     "description": "just for fun",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
     },
     "autoload" : {
     	"psr-4" : {
-    		"justfun\\": "src/"
+    		"justfun\\hello\\": "src/"
     	}
     }
 }

@@ -2,7 +2,7 @@
 
 require './vendor/autoload.php';
 
-use justfun\SayHello; 
+use justfun\hello\SayHello; 
 
 echo SayHello::world(); 
 
